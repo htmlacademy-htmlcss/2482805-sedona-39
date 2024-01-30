@@ -2,7 +2,7 @@
 
 * Студент: [Юрий](https://up.htmlacademy.ru/htmlcss/39/user/2482805).
 * Наставник: [Екатерина](https://htmlacademy.ru/profile/id215761).
-* Сайт: [Мой проект Седона](https://asdwzxcq.github.io/2482805-sedona-39/)
+* Сайт: [Мой проект Седона](https://asdwzxcq.github.io/2482805-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
